@@ -1,3 +1,6 @@
+ORIGINAL READ ME FILE FROM jakesgordon/javascript-snakes
+
+
 Javascript Snakes
 =================
 
